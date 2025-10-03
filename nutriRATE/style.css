@@ -1,0 +1,162 @@
+
+.image{
+width:500px;
+height:500px;
+margin-top:-180px;
+margin-left:-5px;
+}
+.diet{
+    width:500px;
+    height:300px;
+    margin-left:330px;
+}
+
+.ap{
+    width:90px;
+    height:80px;
+}
+.imgpiz{
+    margin-left:2px;
+    width:90px;
+    height:80px;
+}
+.rice{
+    margin-bottom:20px;
+    width:90px;
+    height:100px;
+
+}
+.piz{
+    margin-bottom:-90px;
+    margin-right:-220px;
+    
+}
+.bri{
+margin-top:90px;
+    width:90px;
+    height:80px;
+}
+.ch{
+    width:90px;
+    height:80px;
+}
+.pg2{
+    color:black;
+    text-decoration: none;
+}
+.tagline{
+    color:rgb(111, 135, 241);
+    font-family:Neue Helvetica Lightfont-family;
+    font-size: 50px;
+    margin-top:-150px;
+}
+.food{
+    color:rgb(238, 133, 196);
+    font-size:25px;
+    font-family:'Times New Roman', Times, serif;
+}
+.lnk{
+    margin-top:-10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;
+    color:rgb(114, 238, 197);
+}
+.apple{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:red;
+    font-size:24px;
+ 
+
+}
+.a{
+         text-decoration: none;
+         color:rgb(250, 98, 98);
+}
+.b{
+    margin-top:150px;
+         text-decoration: none;
+         color:yellow;
+}
+.c{
+         text-decoration: none;
+         color:rgb(238, 191, 149);
+}
+.p{
+    margin-left:10px;
+         text-decoration: none;
+         color:rgb(139, 65, 65);
+}
+.xxx{
+    font-family:monospace;
+    color:rgb(176, 20, 219);
+    font-size:40px;
+}
+.srch{
+    font-size:45px;
+}
+.apple{
+    width:200px;
+    height:260px;
+     
+}
+.app{
+    font-size: 120px;
+    font-family:Bervis;
+    margin-left:230px;
+    margin-top:-190px;
+}
+.pizza{
+    width:200px;
+    height:260px;
+}
+.piz{
+    font-size: 120px;
+    font-family:Bervis;
+    margin-left:230px;
+    margin-top:-190px;
+}
+.chips{
+    width:200px;
+    height:260px;
+}
+.chi{
+    font-size: 120px;
+    font-family:Bervis;
+    margin-left:230px;
+    margin-top:-190px;
+}
+.briyani{
+
+    width:200px;
+    height:260px;
+}
+.bri{
+
+    font-size: 120px;
+    font-family:Bervis;
+    margin-left:230px;
+    margin-top:-190px;
+}
+.nav-logo{
+    margin-top:-80px;
+    margin-left:5px;
+}
+.rate{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.abt{
+    text-decoration: none;
+}
+.prof{
+    text-decoration: none;
+}
+.con{
+text-decoration: none;
+}
+.res{
+text-decoration: none;
+}
+.help{
+text-decoration: none;
+}
