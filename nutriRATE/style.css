@@ -1,162 +1,289 @@
-
 .image{
-width:500px;
-height:500px;
-margin-top:-180px;
-margin-left:-5px;
+    height:926px;
+    width:864px;
+margin-top:-165px;
+   margin-left:580px;
 }
-.diet{
-    width:500px;
-    height:300px;
-    margin-left:330px;
+.heading{
+    color:rgb(34, 34, 86);
+    font-size:60px;
+    margin-top: -650px;
+    margin-left: 189px;
 }
+.nav{
+    font-size:31px;
+    margin-top: 10px;
+    margin-left:6px;
+color:white;
+background-color: white;
+}
+.blue{
+    color:green;
+}
+.data{
+    color:rgb(24, 24, 69);
+    font-size:26px;
+    text-decoration: none;
+    margin-left:61px;
 
-.ap{
-    width:90px;
-    height:80px;
 }
-.imgpiz{
-    margin-left:2px;
-    width:90px;
-    height:80px;
-}
-.rice{
-    margin-bottom:20px;
-    width:90px;
-    height:100px;
+.dropdown{
+    color:black;
+    margin-left:265px;
+    size: 12px;
+    margin-top:-50px;
+
 
 }
-.piz{
-    margin-bottom:-90px;
-    margin-right:-220px;
+.desc{
+    margin-left:188px;
+    color:black;
+    font-size:20px
+}
+.start{
+    background-color: rgb(43, 43, 71);
+    color:white;
+    font-size:23px;
+    width:298px;
+    height:50px;
+    border-radius: 12px;
+    margin-left:190px;
+}
+.login{
+    margin-left:189px;
+    color:black;
+    font-size: 22px;
+}
+.lgn{
+    cursor:pointer;
+}
+.bg2{
+  background-color:rgb(207, 241, 241);
+}
+.bg{
+    background-color: rgb(183, 244, 244);
     
 }
-.bri{
-margin-top:90px;
-    width:90px;
-    height:80px;
+.line{
+    color:rgb(207, 241, 241);
+    width:-9px;
 }
-.ch{
-    width:90px;
-    height:80px;
+.playstore{
+    width:180px;
+    height:69.65px;
+    margin-left:9px;
 }
-.pg2{
+.appstore{
+    width:149.57;
+    height:50px;
+    margin-left: 190px;
+}
+.imgvid{
+    margin-left: 459px;
+
+    width:450px;
+    height:290px;
+}
+.demo{
+    margin-left:445px;
+    font-size:39px;
+}
+.sign{
+    color:white;
+    background-color: rgb(37, 37, 87);
+    box-shadow:0cqmax;
+    width:230px;
+    height:56px;
+    margin-left:585px;
+    border-radius: 6px;
+}
+.cal{
+    width:311px;
+    height:465.2px;
+    margin-left:396px;
+}
+.track{
+    cursor: pointer;
+color:rgb(77, 69, 237);
+margin-left:900px;
+margin-top:-325px;
+}
+.log{
+    cursor: pointer;
+    color:rgb(65, 65, 231);
+    margin-left:901px;
+}
+.chart{
+    width:311px;
+    height:379.68px;
+    margin-left:781px;
+    margin-top: 198px;
+}
+.dta{
+    cursor: pointer;
+    color:rgb(65,65,231);
+    margin-left:190px;
+    margin-top:-230px;
+}
+.facts{
+    margin-top:-5px;
+    margin-left:240px;
+     color:rgb(65,65,231);
+}
+.img3{
+    width:311px;
+    height:377.56px;
+    margin-left:400px;
+    margin-top:190px;
+}
+.line3{
+    margin-left:785px;
+    color:rgb(65,65,231);
+    margin-top:-144px;
+}
+.l3{ margin-left:785px;
+    color:rgb(65,65,231);
+    margin-top:5px;
+
+}
+.what{
+    margin-left:491px;
+    margin-top:22px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:black;
+    font-size:54px;
+}
+.reviews{
+    font-family:pacifico;
+    margin-left:414px;
+    margin-top:12px;
+    color:brown;
+}
+.name{
+    font-size:19px;
+    color:rgb(91, 19, 19);
+    margin-left:455px;
+}
+.read{
     text-decoration: none;
+border-color: white;
+background-color: white;
+border-radius: 6px;
+box-shadow: none;
+margin-left:230px;
+margin-top:19px;
+width:250px;
+height: 42px;
 }
-.tagline{
-    color:rgb(111, 135, 241);
-    font-family:Neue Helvetica Lightfont-family;
-    font-size: 50px;
-    margin-top:-150px;
+.more{
+    text-decoration: none;
+    color:navy;
 }
-.food{
-    color:rgb(238, 133, 196);
-    font-size:25px;
-    font-family:'Times New Roman', Times, serif;
+.start1{
+    margin-left:560px;
+     background-color: rgb(43, 43, 71);
+    color:white;
+    font-size:23px;
+    width:444px;
+    height:50px;
+    border-radius: 12px;
 }
-.lnk{
-    margin-top:-10px;
-    font-family:Arial, Helvetica, sans-serif;
-    font-size:25px;
-    color:rgb(114, 238, 197);
+.list{
+margin-top:89px;
+    color:black;
+    margin-left:560px;
+    font-size:32px;
 }
-.apple{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:red;
-    font-size:24px;
- 
+.view{
+    margin-left:535px;
+    margin-top:22px;
+    color:rgb(25, 24, 24);
+    font-size:15px;
+}
+.lst{
+    width:264px;
+  height:  119.9px;
+  margin-left:199px;
+  border-style:outset;
+  border-width: 6px;
+}
+.lst1{
+    width:264px;
+  height:  119.9px;
+  margin-left:99px;
+}
+
+.lst2{
+    width:264px;
+  height:  119.9px;
+  margin-left:50px;
+  
+}
+.faq{
+    margin-left:700px;
+    color:navy;
 
 }
-.a{
-         text-decoration: none;
-         color:rgb(250, 98, 98);
-}
-.b{
-    margin-top:150px;
-         text-decoration: none;
-         color:yellow;
-}
-.c{
-         text-decoration: none;
-         color:rgb(238, 191, 149);
-}
-.p{
-    margin-left:10px;
-         text-decoration: none;
-         color:rgb(139, 65, 65);
-}
-.xxx{
-    font-family:monospace;
-    color:rgb(176, 20, 219);
-    font-size:40px;
-}
-.srch{
-    font-size:45px;
-}
-.apple{
-    width:200px;
-    height:260px;
-     
-}
-.app{
-    font-size: 120px;
-    font-family:Bervis;
-    margin-left:230px;
-    margin-top:-190px;
-}
-.pizza{
-    width:200px;
-    height:260px;
-}
-.piz{
-    font-size: 120px;
-    font-family:Bervis;
-    margin-left:230px;
-    margin-top:-190px;
-}
-.chips{
-    width:200px;
-    height:260px;
-}
-.chi{
-    font-size: 120px;
-    font-family:Bervis;
-    margin-left:230px;
-    margin-top:-190px;
-}
-.briyani{
+.q1{
+margin-left:201px;
 
-    width:200px;
-    height:260px;
 }
-.bri{
-
-    font-size: 120px;
-    font-family:Bervis;
-    margin-left:230px;
-    margin-top:-190px;
-}
-.nav-logo{
-    margin-top:-80px;
-    margin-left:5px;
-}
-.rate{
-    font-size: 50px;
-    font-family: sans-serif;
-}
-.abt{
+.appp{
     text-decoration: none;
 }
-.prof{
-    text-decoration: none;
+.qna{
+    border-width: 2px;
+    border-style: outset;
+    align-items: center;
+    margin-left: 80px;
+    margin-right: 150px;
+    border-color: navy;
+
 }
-.con{
-text-decoration: none;
+.create{
+    margin-left:105px;
+    margin-top:-393px;
+    font-size:49px;
+color:rgb(27, 23, 23);
+
 }
-.res{
-text-decoration: none;
+.berry{
+
+    width:1999px;
+    height:399px;
 }
-.help{
-text-decoration: none;
+.colour {
+ color: rgb(4, 95, 95);
+}
+
+.start2{
+    margin-left:160px;
+     background-color: rgb(43, 43, 71);
+    color:white;
+    font-size:23px;
+    width:344px;
+    height:50px;
+    border-radius: 12px;
+
+}
+
+.two{
+    margin-top:255px;
+margin-left:523px;
+font-size:20px;
+}
+.three{
+    margin-top:-121px;
+margin-left:923px;
+font-size:20px;
+}
+.playstore1{
+    width:180px;
+    height:69.65px;
+    margin-left:12px;
+}
+.appstore1{
+    width:149.57;
+    height:50px;
+    margin-left: 395px;
 }
